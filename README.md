@@ -1,2 +1,2 @@
-# Python-server
+# web
 ~ Learning to code (python serv) ~
